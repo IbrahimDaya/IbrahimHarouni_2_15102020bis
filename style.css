@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600;700;800;900&display=swap');
-
+/*ce code est pour style l entete  */
 * {
   box-sizing: border-box;    
 }
@@ -86,6 +86,7 @@ body {
 .inscrire-mobile {
    display: none; 
 }
+/* cette partie du code est pour styler pour les petits ecran */
 
 @media screen and (max-width: 755PX){
     
@@ -124,7 +125,7 @@ body {
         
     }
     .Menu-principal{
-        ;
+        
         width: 100%;
     }
 }
